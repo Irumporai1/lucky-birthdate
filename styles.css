@@ -1,0 +1,49 @@
+
+.heading{
+    
+    text-align: center;
+
+}
+
+   body{
+       background-color: #D1FAE5;
+   }
+     
+   .container{
+    margin: auto;
+    display:flex;
+    flex-direction:column;
+    width: 50vw;
+    padding: 0.5rem 0.5rem;
+    background-color:#047857;
+    
+}
+
+.label{
+    font-size: larger;
+    color: white;
+    
+}
+
+ button{
+     font-size: larger;
+     font-weight: bold;
+     color: #047857;
+     padding: 0.4rem;
+     display: block;
+     width: 20vh;
+     margin-top: 1rem;
+     margin: auto;
+ }
+ input{
+     padding: 0.3rem;
+     margin:5pt;
+ }
+#text{
+    text-align: center;
+}
+
+#date, #number{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
